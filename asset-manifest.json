@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photographyStudio-react/static/css/main.9ed2619a.css",
+    "main.js": "/photographyStudio-react/static/js/main.2a1b09cb.js",
+    "index.html": "/photographyStudio-react/index.html",
+    "main.9ed2619a.css.map": "/photographyStudio-react/static/css/main.9ed2619a.css.map",
+    "main.2a1b09cb.js.map": "/photographyStudio-react/static/js/main.2a1b09cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed2619a.css",
+    "static/js/main.2a1b09cb.js"
+  ]
+}
