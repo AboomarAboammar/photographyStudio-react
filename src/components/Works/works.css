@@ -1,0 +1,31 @@
+.work-row {
+  width: 100%;
+  height: fit-content;
+}
+.work-col {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+  justify-content: center;
+}
+.btn {
+  margin: 15px 5px;
+  max-width: fit-content;
+}
+.btn:hover {
+  color: gold !important;
+  background-color: transparent !important;
+  border: none;
+  transition: all 0.4s ease;
+}
+.work-row h1 {
+  text-align: center;
+  color: gold;
+  margin: 20px 0px;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  font-weight: bold;
+}

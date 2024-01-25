@@ -1,0 +1,22 @@
+
+export const Data = [
+  { id:1 ,category: "personal", imgUrl:"/p1 copy.jpg"},
+  { id: 2, category: "weddin", imgUrl: "/p1.jpg" },
+  { id: 3, category: "fashion", imgUrl: "/p3.jpg" },
+  { id: 4, category: "event", imgUrl: "/work2.jpg" },
+  { id: 5, category: "personal", imgUrl: "/p1.jpg" },
+  { id: 6, category: "fashion", imgUrl: "/work4.jpg" },
+  { id: 7, category: "personal", imgUrl: "/work6.jpg" },
+  { id: 8, category: "weddin", imgUrl: "/work5.jpg" },
+  { id: 9, category: "personal", imgUrl: "/wrk7.jpg" },
+  { id: 10, category: "weddin", imgUrl: "/work1.jpg" },
+  { id: 11, category: "weddin", imgUrl: "/work2.jpg" },
+  { id: 12, category: "personal", imgUrl: "/work3.jpg" },
+  { id: 13, category: "weddin", imgUrl: "/work4.jpg" },
+  { id: 14, category: "fashion", imgUrl: "/work5.jpg" },
+  { id: 15, category: "event", imgUrl: "/work5.jpg" },
+  { id: 16, category: "personal", imgUrl: "/wrk7.jpg" },
+  { id: 17, category: "fashion", imgUrl: "/p1.jpg" },
+  { id: 18, category: "personal", imgUrl: "/p3.jpg" },
+  { id: "19", category: "weddin", imgUrl: "/work3.jpg" },
+];
